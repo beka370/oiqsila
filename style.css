@@ -1,0 +1,77 @@
+body {
+    background-color:white;
+    padding-top: 500px;
+    padding-left: 1000px;
+    padding-right: 100px;
+}
+.koe { 
+    width: 800px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: rgb(215, 234, 254);
+    box-shadow: 10px 5px 5px rgb(4, 0, 240);
+}
+img{
+    padding-left: 30px;
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+    border-radius: 50%;
+}
+.Meta {
+    gap: 15px;
+    color: rgb(6, 17, 73);
+    padding-left: 30px;
+   
+}
+.qwerty {
+    display: flex;
+    justify-content: space-between;
+  
+}
+.para {
+    padding-right: 100px;
+    color: rgb(9, 9, 60);
+
+}
+span {
+   font-weight: bold ;
+}
+.pas {
+    text-align: center;
+    color: azure;
+    background-color: rgb(6, 3, 40);
+}
+p {
+    font-weight: bolder ;
+}
+.parasat {
+    padding-left: 70px;
+}
+.small {
+    display: flex;
+    gap: 0px;
+    padding-top: 60px;
+    padding-right: 100px;
+
+}
+.asyl img{
+    width: 50px;
+    height: 50px;
+   
+    border-radius: 50%;
+}
+.era img {
+    width: 50px;
+    height: 50px;
+   
+    border-radius: 50%;
+    
+}
+.kittai img {
+    width: 50px;
+    height: 50px;
+   
+    border-radius: 50%;
+   
+}
